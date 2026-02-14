@@ -38,8 +38,8 @@ Install dependencies:
 npm install
 
 Create a .env file with:
-MONGO_URI=mongodb+srv://siddharth:s4qnRiTMECC3dPgf@cluster0.oaitayw.mongodb.net/project-5
-JWT_SECRET=siddharth
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
 PORT=5000
 
 Start server:
